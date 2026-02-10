@@ -1,0 +1,10 @@
+{
+    "demo/demo_index": {
+        "description": "Central index for all demo modules with shared styling",
+        "author": "Razy Framework",
+        "latest": "1.0.0",
+        "versions": [
+            "1.0.0"
+        ]
+    }
+}
