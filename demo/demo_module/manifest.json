@@ -1,0 +1,20 @@
+{
+    "module_code": "demo/demo_module",
+    "description": "A demo module that can be loaded by any distributor",
+    "author": "Test Developer",
+    "latest": "1.0.0",
+    "versions": [
+        "1.0.0"
+    ],
+    "updated": "2026-02-10 22:39:38",
+    "releases": {
+        "1.0.0": {
+            "file": "1.0.0.phar",
+            "size": 9279,
+            "checksum": "33ee91354743b404cdd1d987d27edf5d4d938e70e9ce25b60f9f60219fa4e21b",
+            "created": "2026-02-10 22:39:38",
+            "php_version": "8.0",
+            "razy_version": "0.5.0-237"
+        }
+    }
+}
