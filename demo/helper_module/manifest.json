@@ -1,0 +1,20 @@
+{
+    "module_code": "demo/helper_module",
+    "description": "A helper module for testing dependency resolution",
+    "author": "Test Developer",
+    "latest": "1.0.0",
+    "versions": [
+        "1.0.0"
+    ],
+    "updated": "2026-02-10 23:04:31",
+    "releases": {
+        "1.0.0": {
+            "file": "1.0.0.phar",
+            "size": 7351,
+            "checksum": "cff9abafab87a883a614f572d70112ce1d650c4ac3c80318384e1713ca498745",
+            "created": "2026-02-10 23:04:31",
+            "php_version": "8.0",
+            "razy_version": "0.5.0-237"
+        }
+    }
+}
